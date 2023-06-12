@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mobile_brands",
+  "info": {
+    "singularName": "mobile-brand",
+    "pluralName": "mobile-brands",
+    "displayName": "Mobile Brand"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "BrandName": {
+      "type": "string"
+    },
+    "Model": {
+      "type": "string"
+    }
+  }
+}
